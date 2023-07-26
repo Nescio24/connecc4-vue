@@ -1,4 +1,4 @@
-# connecc4-vue
+# connecc4
 
 A Vue.js implementation of the classic board game *Connect Four*.
 
